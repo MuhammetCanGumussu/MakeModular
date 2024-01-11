@@ -1,0 +1,6 @@
+# data/
+# MakeModular/data/
+
+# ignore all trained model vit model .pth
+
+models/
